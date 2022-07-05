@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ANIV-AntonIvanov
-- 👀 I’m interested in learning front-end
-- 🌱 I’m currently learning front-end basics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just text me here
+- 👀 I’m interested in learning: front-end development
+- 🌱 I’m currently learning: front-end basics 
+- 💞️ I’m looking to collaborate on: building a more intuitive software and technology 
+- 📫 How to reach me just: text me here
 
 <!---
 ANIV-AntonIvanov/ANIV-AntonIvanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

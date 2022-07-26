@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANIV-AntonIvanov
-- 👀 I’m interested in learning: Front-end development and more..
-- 🌱 I’m currently learning: Front-end basics. 
+- 👀 I’m interested in learning: Software development, Hardware and technology..
+- 🌱 I’m currently learning: Front-end development. 
 - 💞️ I’m looking to collaborate on: Building a more intuitive software and technology. 
 - 📫 How to reach me just: Text me here or at my sololearn profile: https://www.sololearn.com/profile/19276723
 <!---
